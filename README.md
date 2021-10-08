@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Flatlid
+- 👀 I’m interested in c++, modeling & simulation
+- 🌱 I’m currently learning the gap form c++03 to c++20 (yes, I'm late to the party, compagny choice, not mine)
